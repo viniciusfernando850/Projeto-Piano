@@ -1,3 +1,7 @@
+/*************************************
+        Projeto 2 - Asa Branca
+*************************************/
+
 const int BUTTON = 12;
 const int BUZZER_PIN = 8;
 const int LED_PIN = 2;

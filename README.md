@@ -3,11 +3,11 @@
   
 <br>
 
-<p align="justify">A sinalização destinada aos veículos segue o modelo tradicional utilizado no trânsito: vermelho (pare), amarelo (atenção) e verde (siga), respeitando tempos pré-definidos para cada estado. Já a sinalização para pedestres opera de forma sincronizada com o semáforo veicular. </p>
+<p align="justify">O piano foi construído em conjunto com LEDs que acendem de acordo com o botão pressionado. Além disso, a nota musical atrelado a cada botão pode ser modificado conforme desejado. </p>
 
 <br>
 
-<p align="justify">Além do funcionamento convencional, o sistema de pedestres inclui um alerta visual, no qual o LED vermelho pisca antes do encerramento do período de travessia, indicando que o sinal está prestes a fechar. Esse comportamento aproxima a simulação do funcionamento real dos semáforos urbanos. </p>
+<p align="justify">A canção Asa Branca foi prototipada com o uso do buzzer e de um LED que acende conforme a música é tocada. Tanto as notas usadas como os tempos musicais estão armazenados em vetores que são implementados no código para produzir o ritmo e a harmonia da canção. </p>
 
 ---
 # Montagem - Piano

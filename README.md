@@ -10,8 +10,8 @@
 <p align="justify">Além do funcionamento convencional, o sistema de pedestres inclui um alerta visual, no qual o LED vermelho pisca antes do encerramento do período de travessia, indicando que o sinal está prestes a fechar. Esse comportamento aproxima a simulação do funcionamento real dos semáforos urbanos. </p>
 
 ---
-# Construção - Piano
----
+# Montagem - Piano
+
 ## Componentes utilizados
   - Arduino Uno (1x)
   - LED Verde 5 mm (1x)
@@ -58,8 +58,8 @@ Quer ver como esse projeto foi programado?
 👉 [Acesse o código clicando aqui!](src/Piano.ino)
 
 ---
-# Construção - Asa Branca
----
+# Montagem - Asa Branca
+
 ## Componentes utilizados
   - Arduino Uno (1x)
   - LED Verde 5 mm (1x)
@@ -86,7 +86,7 @@ Quer ver como esse projeto foi programado?
 ---
 ## Montagem e Funcionamento
 <p align="center">
-  <img src="images/panoramica-asa-branca.jpg" alt="Montagem do Circuito"  width="800" height="400">
+  <img src="images/superior-asa-branca.jpg" alt="Montagem do Circuito"  width="800" height="400">
 </p>
 
 <br>

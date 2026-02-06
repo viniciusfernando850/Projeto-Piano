@@ -56,7 +56,6 @@
 ## Código do Projeto
 Quer ver como esse projeto foi programado?  
 👉 [Acesse o código clicando aqui!](piano/piano.ino)
-👉 [Acesse o código clicando aqui!](asa-branca/asa-branca.ino)
 
 ---
 # Montagem - Asa Branca
@@ -98,4 +97,4 @@ Quer ver como esse projeto foi programado?
 ---
 ## Código do Projeto
 Quer ver como esse projeto foi programado?  
-👉 [Acesse o código clicando aqui!](src/AsaBranca.ino)
+👉 [Acesse o código clicando aqui!](asa-branca/asa-branca.ino)
